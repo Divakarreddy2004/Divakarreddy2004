@@ -1,10 +1,22 @@
 <div align="center">
 
-# 👋 Hi, I'm Divakar Reddy
+# 👋 Hey, I'm Divakar Reddy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=DevOps+Enthusiast+%F0%9F%9A%80;AWS+Cloud+Learner;CI%2FCD+Pipeline+Builder;Linux+%26+Shell+Scripting+Explorer;Automation+Lover" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=DevOps+Enthusiast+🚀;AWS+Cloud+Learner+☁️;Linux+%26+Shell+Scripting+Explorer+🐧;CI%2FCD+Pipeline+Builder+⚡;Docker+Automation+Lover+🐳;Always+Learning+New+Technologies+💻" />
 
-<img src="https://komarev.com/ghpvc/?username=Divakarreddy2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Divakarreddy2004&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/Divakarreddy2004?style=for-the-badge&logo=github&color=blue" />
+
+<img src="https://img.shields.io/github/stars/Divakarreddy2004?style=for-the-badge&logo=github&color=yellow" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 DevOps • Cloud • Automation • Linux
 
 </div>
 
@@ -12,29 +24,41 @@
 
 # 💫 About Me
 
-🔭 Currently working on:
-Building beginner-level DevOps projects using CI/CD pipelines, Docker containers, and AWS deployment.
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🌱 Currently learning:
-Linux • Shell Scripting • Git • GitHub • Docker • Jenkins • CI/CD • AWS
+🔭 Currently Building
+➡️ Beginner-level DevOps projects using Docker, Jenkins, GitHub, and AWS
 
-👯 Looking to collaborate on:
-Open-source DevOps and Cloud projects.
+🌱 Currently Learning
+➡️ Linux Administration
+➡️ Shell Scripting Automation
+➡️ Docker Containerization
+➡️ CI/CD Pipelines
+➡️ Jenkins Automation
+➡️ AWS Cloud Services
 
-🤝 Looking for help with:
-Real-time DevOps workflows and deployment automation.
+👯 Looking to Collaborate On
+➡️ Open-source DevOps & Cloud Projects
 
-💬 Ask me about:
-Linux basics, Git & GitHub, Docker, CI/CD, Jenkins, and beginner DevOps concepts.
+🤝 Looking for Help With
+➡️ Real-world deployment workflows and automation
 
-⚡ Fun fact:
-I enjoy automating repetitive tasks and building deployment workflows 🚀
+💬 Ask Me About
+➡️ Linux
+➡️ Shell Scripting
+➡️ Git & GitHub
+➡️ Docker
+➡️ Jenkins
+➡️ AWS Basics
+
+⚡ Fun Fact
+➡️ I love automating repetitive tasks and improving workflows 🚀
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://linkedin.com/in/divakar-reddy-753a90367">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -48,137 +72,171 @@ I enjoy automating repetitive tasks and building deployment workflows 🚀
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💻 Tech Stack
+# ⚒️ Tech Stack
 
-## 🐧 Linux & Automation
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash"/>
-</p>
+## 🐧 Linux & Scripting
 
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,bash,vscode,visualstudio" />
 
----
+<br><br>
 
 ## ⚙️ DevOps Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins" />
 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge\&logo=githubactions\&logoColor=white)
-
----
+<br><br>
 
 ## ☁️ AWS Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
+<img src="https://skillicons.dev/icons?i=aws" />
 
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+<br>
 
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge\&logo=amazonec2\&logoColor=white)
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/>
 
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge\&logo=amazonroute53\&logoColor=white)
-
----
-
-## 🖥️ Development Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio"/>
-</p>
-
----
+<br><br>
 
 ## 🗄️ Database & Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+<br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
 ## 🔹 Customer Order DevOps Pipeline
 
-🔗 https://github.com/Divakarreddy2004/customer-order-devops
+### 🚀 Features
 
-✔️ CI/CD Pipeline
-✔️ Jenkins Automation
-✔️ Docker Integration
-✔️ GitHub Version Control
+* CI/CD Pipeline
+* Jenkins Automation
+* Docker Integration
+* GitHub Workflow
+* Deployment Automation
 
----
+🔗 Repository
+➡️ https://github.com/Divakarreddy2004/customer-order-devops
+
+</td>
+
+<td width="50%">
 
 ## 🔹 Chocolate Shipments Dashboard
 
-🔗 https://github.com/Divakarreddy2004/PowerBI-Chocolate-Shipments-Dashboard
+### 📊 Features
 
-✔️ Interactive Dashboard
-✔️ Business Insights
-✔️ Data Visualization
+* Power BI Dashboard
+* Interactive Reports
+* Business Insights
+* Data Visualization
+
+🔗 Repository
+➡️ https://github.com/Divakarreddy2004/PowerBI-Chocolate-Shipments-Dashboard
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divakarreddy2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Divakarreddy2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakarreddy2004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakarreddy2004&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divakarreddy2004&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 DevOps Journey
+# 🏆 GitHub Achievements
 
-✅ Hands-on with Linux & Shell Scripting
-✅ Built beginner CI/CD pipelines
-✅ Working with Docker Containers
-✅ AWS IAM, EC2, VPC & Route53 basics
-✅ Git & GitHub workflow practice
-✅ SQL & Power BI projects
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Divakarreddy2004&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+</div>
 
 ---
 
-# 📚 Currently Exploring
+# 📚 Current Focus
 
 ```bash
 ✔ Linux Administration
 ✔ Shell Scripting Automation
-✔ Docker Containerization
+✔ Docker Containers
 ✔ Jenkins Pipelines
-✔ CI/CD Workflows
-✔ AWS Cloud Services
+✔ CI/CD Workflow
+✔ AWS Deployment
+✔ GitHub Workflow
+✔ DevOps Projects
 ```
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divakarreddy2004&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
 # ✨ DevOps Philosophy
 
-> “Automate repetitive work, learn continuously, and build reliable systems.” 🚀
+<div align="center">
+
+> “Automate repetitive work, simplify deployment, and keep learning every day.” 🚀
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💻 Code • Automate • Deploy • Repeat
+### 💻 Code • Build • Automate • Deploy • Repeat ⚡
 
 </div>
